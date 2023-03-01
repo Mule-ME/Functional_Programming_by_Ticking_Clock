@@ -1,7 +1,6 @@
 <h1>Learn Functional Programming with Ticking Clock</h1>
-#PROBLEM : Build a ticking clock
-
-#CONSIDERATIONS =>
+<h2>PROBLEM : Build a ticking clock</h2>
+<h3>CONSIDERATIONS =></h3>
 
 1. The clock needs to display hours, minutes,seconds, and time of day in civilian time.
 2. Each field must always have double digits,meaning leading zeros need to be applied to single-digit values like 1 or 2.
