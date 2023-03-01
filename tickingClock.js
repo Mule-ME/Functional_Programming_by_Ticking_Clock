@@ -41,7 +41,6 @@ const prependZero = (key) => (clockTime) => ({
 });
 
 //composer function
-
 const compose =
   (...fns) =>
   (arg) =>
